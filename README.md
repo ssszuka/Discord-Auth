@@ -1,7 +1,7 @@
 ### Complete Example Files
 
 See the `templates` folder for complete implementations:
-- [templates/callback.html](../tree/main/templates/callback.html) - Complete callback receiver page
+- [templates/callback.html](../main/templates/callback.html) - Complete callback receiver page
 - [templates/errormsg.html](templates/errormsg.html) - Error page implementation
 - [templates/error-simple.html](templates/error-simple.html) - Simple error page template
 - # Discord OAuth Authentication Service
