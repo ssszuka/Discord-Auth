@@ -1,4 +1,10 @@
-# Discord OAuth Authentication Service
+### Complete Example Files
+
+See the `templates` folder for complete implementations:
+- [templates/callback.html](../tree/main/templates/callback.html) - Complete callback receiver page
+- [templates/errormsg.html](templates/errormsg.html) - Error page implementation
+- [templates/error-simple.html](templates/error-simple.html) - Simple error page template
+- # Discord OAuth Authentication Service
 
 A lightweight, serverless Discord OAuth2 authentication service built with Next.js. This service validates Discord server membership and securely transfers user data to your frontend application using popup-based authentication.
 
